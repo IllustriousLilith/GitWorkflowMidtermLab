@@ -1,0 +1,4 @@
+/* Nav Setup */
+nav { display: flex; background: #333; padding: 10px; }
+nav a { color: white; margin-right: 15px; text-decoration: none; }
+nav a:hover { color: #ff0000; }
