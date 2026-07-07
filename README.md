@@ -1,3 +1,3 @@
-# Git Workflow Midterm Lab
+# Feature Branch Project Title
 # SetUps
 # Did some tweaks
